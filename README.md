@@ -7,6 +7,7 @@ Vol 1:
 4. Base Dataset, Steal Success, + BaseballCV Collab
 
 **Future:**
+
 5. HUD + PitchCom Improvements
 6. Who'sThatPlayer
 
